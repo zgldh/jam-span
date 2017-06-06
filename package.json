@@ -1,0 +1,23 @@
+{
+  "name": "jam-span",
+  "version": "1.0.0",
+  "description": "A VueJS component to perform a jumping text with radio jam effect.",
+  "main": "JamSpan.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zgldh/jam-span.git"
+  },
+  "keywords": [
+    "vuejs",
+    "component"
+  ],
+  "author": "zgldh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zgldh/jam-span/issues"
+  },
+  "homepage": "https://github.com/zgldh/jam-span#readme"
+}
