@@ -16,4 +16,4 @@ How to use?
         <jam-span :text="text" interval="20" duration="1500"></jam-span>
     ```
 
-Or just watch this: https://jsfiddle.net/zgldh/vtpphau7/4/
+Or just watch this: https://jsfiddle.net/zgldh/vtpphau7/
