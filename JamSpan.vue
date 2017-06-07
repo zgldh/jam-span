@@ -83,6 +83,9 @@
 </script>
 
 <style lang="scss">
+  .jam-span{
+    font-family: 'Courier New';
+  }
   .jam-span .jam-code {
     color: red;
   }
