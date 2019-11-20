@@ -1,6 +1,8 @@
 # jam-span
 A VueJS component to perform a jumping text with radio jam effect 
 
+![demo.gif](demo.gif "demo.gif")
+
 How to use?
 
     In JavaScript: 
